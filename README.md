@@ -5,7 +5,7 @@
 Zasady:
 * nie można wylosować siebie
 * nie można wylosować swojego partnera
-* każda osoba może być wy
+* każda osoba może być wylosowana
 
 ## Podjęte kroki
 1. Napisałem prompt do GPT 4o wytyczający kryteria.
