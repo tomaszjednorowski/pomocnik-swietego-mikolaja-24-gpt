@@ -1,7 +1,3 @@
-#Aby użyć:
-
-Zainstaluj na komputerze z windows wskazany w repo plik exe
-
 
 # Generator do tajnego losowania osoby, której ktoś ma dać prezent na Wigilię
 
