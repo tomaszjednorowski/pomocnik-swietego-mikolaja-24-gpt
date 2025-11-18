@@ -1,4 +1,4 @@
-#Aby użyć:
+# Aby użyć:
 
 Zainstaluj na komputerze z windows wskazany w repo plik exe
 
